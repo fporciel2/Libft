@@ -6,6 +6,10 @@
     This process mirrors the concept of emergence, where the total entity
     possesses properties its parts do not have on their own.
 
+    For more informations, see the Wiki:
+
+    https://github.com/fporciel2/Libft/wiki
+
 ## License    
 
     A basic library of all-purpose functions in the C language,
